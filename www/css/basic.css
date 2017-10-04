@@ -1,0 +1,104 @@
+body 
+{	
+	position:relative;
+	margin:40px;
+	max-width:100%;
+	line-height:1.6;
+	font-size:18px;
+	color:#444;
+	padding:10px;
+	background-color:black;
+}
+.logo_container
+{
+	border-style:double;
+}
+.logo
+{
+	margin-left:20%;
+}
+.registration
+{
+	float:left;
+	width:20%;
+	background-color:yellow;
+	border-style:double;
+	border-width:thick;
+	border-color:blue;
+}
+.stay
+{
+	max-width:80%;
+}
+.rest_of_the_site
+{
+	width:78%;
+	float:right;
+	color:#00FFFF;
+}
+.box1
+{
+	
+}
+.header_name
+{
+
+}
+.header_caption
+{
+	
+}
+.site_content
+{
+	clear:both;
+	margin-top:100px;
+}
+.link
+{
+	float:center;
+}
+.column1
+{
+	clear:both;
+	float:left;
+	width:40%;
+}
+.column1_paragraph_1
+{
+
+}
+.column2
+{
+	float:right;
+	width:40%;
+}
+.column2_paragraph1
+{
+	
+}
+.table_container
+{
+	clear:both;
+	float:left;
+	margin-left:35%;
+	margin-top:100px;
+}
+.table
+{
+	border-style:solid;
+	border-collapse:separate;
+}
+.footer
+{
+	clear:both;
+	font-size:12px;
+}
+.footer_paragraph1
+{
+	text-align:center;
+}
+.red
+{
+	color:red;
+}
+
